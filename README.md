@@ -2,6 +2,8 @@
 
 2024 高校网络安全管理运维赛 附件归档 OMCTF2024（operation and maintenance）
 
+官方WriteUP：https://contest.pku.edu.cn/media/landing_page/writeup.pdf
+
 ## Misc - 签到
 
 > 点击下面的链接下载附件。在 GIF 图片中提取出 Flag，然后将 Flag 输入到下面的文本框即可得分。
